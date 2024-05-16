@@ -1,0 +1,11 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\bin\Debug\netcoreapp2.1\In the Castle of the King.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\bin\Debug\netcoreapp2.1\In the Castle of the King.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\bin\Debug\netcoreapp2.1\In the Castle of the King.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\bin\Debug\netcoreapp2.1\In the Castle of the King.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\bin\Debug\netcoreapp2.1\In the Castle of the King.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\obj\Debug\netcoreapp2.1\In the Castle of the King.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\obj\Debug\netcoreapp2.1\In the Castle of the King.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\obj\Debug\netcoreapp2.1\In the Castle of the King.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\obj\Debug\netcoreapp2.1\In the Castle of the King.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\obj\Debug\netcoreapp2.1\In the Castle of the King.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\In the Castle of the King\In the Castle of the King\obj\Debug\netcoreapp2.1\In the Castle of the King.pdb
